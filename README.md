@@ -22,8 +22,18 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
 * High-Fidelity Wireframes:<br>
    More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
 ### The type of wireframe of the example is High-Fidelity Wireframes
-
-
+## popular wireframing tools.
+* Figma for real-time collaboration
+* Moqups for beginners
+* Balsamiq for non-designers
+* UXPin for code-based design
+* Justinmind for interactive wireframes
+* Visily for AI-assisted wireframing
+### Figma pros:
+* Generous free plan
+* Whiteboard/brainstorming tool
+* Collaboration options across teams
+* Access to a huge active community with free resources like UI components, and icon sets
 
 
 

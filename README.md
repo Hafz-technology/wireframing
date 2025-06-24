@@ -21,7 +21,7 @@ Wireframing is a crucial step in the design process, serving as a blueprint or s
    Simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design.
 * High-Fidelity Wireframes:<br>
    More detailed and refined versions, often closer to the final design, including more specific layout and design elements.
-
+### The type of wireframe of the example is High-Fidelity Wireframes
 
 
 

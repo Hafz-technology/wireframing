@@ -60,10 +60,8 @@ Wireframes act as a guide for subsequent design and development phases, ensuring
 * Focuses on Functionality and User Experience:<br>
 By stripping away visual design elements, wireframes allow designers to concentrate on the functionality and user experience, ensuring the product is intuitive and user-friendly.
 
-
-
-
-
+## Wireframing in Practice
+A real estate app's wireframes showed users struggled to find property filters. This was resolved by relocating the filter icon to a more prominent position on the main search screen. This early identification prevented costly reworks during development, resulting in an intuitive and efficient user experience. Wireframing ensures a user-friendly design by identifying and resolving usability issues pre-development.
 
 
 
